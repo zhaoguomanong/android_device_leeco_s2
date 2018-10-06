@@ -148,10 +148,6 @@ endif
 PRODUCT_PACKAGES += \
     libcnefeatureconfig
 
-# Consumerir
-PRODUCT_PACKAGES += \
-    consumerir.msm8952
-
 # Data Services
 PRODUCT_PACKAGES += \
     librmnetctl
