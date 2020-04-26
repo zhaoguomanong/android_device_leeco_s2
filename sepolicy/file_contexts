@@ -13,9 +13,6 @@
 # Radio
 /data/misc/radio/qcril.db                                   u:object_r:nv_data_file:s0
 
-# Shell scripts
-/(vendor|system/vendor)/bin/init\.uei\.sh                   u:object_r:init_uei_exec:s0
-
 # Legacy (TODO: move to vendor)
 /sbin/qfipsverify                                           u:object_r:sectest_exec:s0
 /system/bin/ipacm                                           u:object_r:ipacm_exec:s0
