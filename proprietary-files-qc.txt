@@ -65,7 +65,7 @@ vendor/lib64/vendor.qti.hardware.fm@1.0_vendor.so
 vendor/bin/hvdcp_opti
 
 # Consumerir - from le_x10 (x850) - 7.1.1/LEXCNFN6061705181T/letv05181516
--vendor/app/UEIQuicksetSDKLeTV/UEIQuicksetSDKLeTV.apk|7695ecb344390d2cb78088eed67d3de782790d04
+-app/UEIQuicksetSDKLeTV/UEIQuicksetSDKLeTV.apk|7695ecb344390d2cb78088eed67d3de782790d04
 
 # CNE
 etc/cne/SwimConfig.xml
