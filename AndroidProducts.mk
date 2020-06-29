@@ -14,9 +14,13 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_s2.mk
+    $(LOCAL_DIR)/ancient_s2.mk \
+    $(LOCAL_DIR)/lineage_s2.mk
 
 COMMON_LUNCH_CHOICES := \
     ancient_s2-user \
     ancient_s2-userdebug \
-    ancient_s2-eng
+    ancient_s2-eng \
+    lineage_s2-user \
+    lineage_s2-userdebug \
+    lineage_s2-eng
