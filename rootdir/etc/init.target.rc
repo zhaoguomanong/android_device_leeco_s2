@@ -159,7 +159,7 @@ on property:persist.camera.s2.restart=1
 
 #Switch Camera HAL Level by DeviceSettings.apk
 on property:persist.camera.hal_migrating=1
-    restart vendor.camera-provider-2-4
+    restart camera-provider-2-4
     setprop persist.camera.hal_migrating 0
 
 on init
